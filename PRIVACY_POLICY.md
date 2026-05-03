@@ -1,6 +1,6 @@
-# Política de Privacidad
+# Privacy Policy
 
-1. Este bot no recopila información personal identificable.
-2. El bot solo procesa datos necesarios para su funcionamiento dentro de Discord (mensajes, comandos, IDs de usuarios/servidores).
-3. No compartimos ni almacenamos datos fuera de Discord.
-4. Al usar este bot, aceptas esta política.
+1.This bot does not collect personally identifiable information.
+2.The bot only processes data necessary for its operation within Discord (messages, commands, user/server IDs).
+3.We do not share or store data outside of Discord.
+4.By using this bot, you agree to this policy.

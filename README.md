@@ -1,4 +1,4 @@
-# IvANbot: Pokémon Edition
+# IvANbot: Pokémon Bot
 
 A Discord bot built with Python and discord.py that integrates the PokeAPI to provide a complete Pokémon management experience within Discord servers.
 

@@ -1,1 +1,59 @@
 
+# --- SECURITY & CONFIGURATION ---
+# Protects bot tokens, environment variables, and local secrets
+.env
+token.txt
+secrets.json
+.replit
+replit.nix
+.env.test
+
+# --- DATABASE & USER DATA ---
+# Prevents local user data and team configurations from being public
+teams.json
+*.db
+*.sqlite
+
+# --- PYTHON INTERNALS ---
+# Compiled files and temporary build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- VIRTUAL ENVIRONMENTS ---
+# Local development environments
+venv/
+env/
+ENV/
+.venv/
+bin/
+include/
+share/
+
+# --- SYSTEM FILES ---
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
